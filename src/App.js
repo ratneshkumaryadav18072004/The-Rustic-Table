@@ -4,7 +4,7 @@ import Header from "./Components/Header.js";
 import Body from "./Components/Body.js";
 import { createBrowserRouter, RouterProvider , Outlet} from "react-router-dom";
 import About from "./Components/About.js";
-import Contact from "./Components/contact.js";
+import Contact from "./Components/Contact.js";
 import Error from "./Components/Error.js";
 
 const AppLayout = () =>{
